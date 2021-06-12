@@ -1,0 +1,7 @@
+{
+  "global" : {
+    "app_id" : "1000",
+    "domain_name": "http://127.0.0.1:",
+    "port_number" : "7007"
+  }
+}
